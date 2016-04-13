@@ -7,6 +7,12 @@ TuShare是实现对股票/期货等金融数据从**数据采集**、**清洗加
 
 ![](http://tushare.waditu.com/_images/main_pic_min.png)
 
+欢迎关注扫描TuShare的微信公众号“挖地兔”，更多资源和信息与您分享：
+
+![](http://tushare.waditu.com/_images/8.jpg)
+
+如有需要，也可以加入TuShare QQ群：14934432
+
 Dependencies
 =========
 python 2.x/3.x   
@@ -173,6 +179,12 @@ Quick Start
  
 Change Logs
 -----------
+
+0.4.9 2016/03/26
+=============
+- 新增申万行业分类get_industry_classified(standard='sw')
+- 新增交易日历trade_cal()
+- 修复bug
 
 0.4.3 2015/12/24
 ============
